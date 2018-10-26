@@ -1,0 +1,53 @@
+{
+  "Msg":"成功",
+  "Information":"成功",
+  "GatherTime":"2018-10-26 11:14:37",
+  "DoorState":"0",
+  "ChannelDataList":[
+    {
+      "ChannelID":"1000459452",
+      "ChannelValue":"0.493000000715256",
+      "GatherTime":"2018-10-26 11:14:37",
+      "State":"0",
+      "Msg":"",
+      "CollectID":"",
+      "ControlParam":"",
+      "ControlCount":"0",
+      "Remark":"",
+      "DataSource":"0",
+      "StorageTime":"2018-10-26 11:14:58",
+      "ChannelType":"0",
+      "DisplayValue":"0.493"
+    },
+    {
+      "ChannelID":"1000510140",
+      "ChannelValue":"0.167999997735023",
+      "GatherTime":"2018-10-26 10:43:49",
+      "State":"5",
+      "Msg":"",
+      "CollectID":"",
+      "ControlParam":"",
+      "ControlCount":"0",
+      "Remark":"",
+      "DataSource":"0",
+      "StorageTime":"2018-10-26 11:14:58",
+      "ChannelType":"0",
+      "DisplayValue":"0.168"
+    },
+    {
+      "ChannelID":"1000535265",
+      "ChannelValue":"0.699999988079071",
+      "GatherTime":"2018-10-26 11:12:32",
+      "State":"0",
+      "Msg":"",
+      "CollectID":"",
+      "ControlParam":"",
+      "ControlCount":"0",
+      "Remark":"",
+      "DataSource":"0",
+      "StorageTime":"2018-10-26 11:14:58",
+      "ChannelType":"0",
+      "DisplayValue":"0.700"
+    }
+  ]
+}
